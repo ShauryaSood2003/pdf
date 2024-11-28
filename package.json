@@ -1,0 +1,22 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sparticuz/chromium": "^131.0.1",
+    "express": "^4.21.1",
+    "handlebars": "^4.7.8",
+    "html-pdf": "^3.0.1",
+    "puppeteer": "^23.9.0",
+    "puppeteer-core": "^23.9.0",
+    "qrcode": "^1.5.4",
+    "tailwindcss": "^3.4.15"
+  }
+}
